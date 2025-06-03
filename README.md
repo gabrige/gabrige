@@ -59,21 +59,6 @@ I also work with **Pandas**, **NumPy**, **Matplotlib**, and create UIs with **St
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- Contact -->
-
-## 📬 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-g%C3%A1mez-974561224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvehL9uvtTey7MIimmSxj1Q%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gabrige16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-<!-- Separación -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- Snake Animation -->
 
