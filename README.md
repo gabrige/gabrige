@@ -47,12 +47,13 @@ I also work with **Pandas**, **NumPy**, **Matplotlib**, and create UIs with **St
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-- 🤖 **AI & Generative Tech**: LangChain · RAG · Prompt Engineering · Embeddings · Clustering · Whisper  
-- 🐍 **Programming Languages**: Python · Java · Kotlin · JavaScript · HTML/CSS  
-- 🧰 **Frameworks & Tools**: Streamlit · FastAPI · Pydantic · Jetpack Compose · Flutter · Tkinter  
-- 🛢️ **Databases**: MySQL · MongoDB  
-- 🐳 **DevOps & Infra**: Docker · Git  
-- 🕹️ **Others**: Unity · NLP · Data Visualization (Matplotlib, Pandas, NumPy)
+- 🤖 AI: LangChain · RAG · Prompt Engineering · Embeddings · Clustering · Whisper    
+- 💻 Code: 🐍 Python · ☕ Java · 📱 Kotlin · 🌐 HTML/CSS/JS  
+- 🧱 Backend: ⚙️ FastAPI · 🧮 Pydantic · 🐬 MySQL · 🍃 MongoDB  
+- 🧰 Tools: 🧪 Streamlit · 🛠️ Tkinter · 🔧 Jetpack Compose · 🪄 Flutter  
+- 🐳 Infra: 🐳 Docker · 🌀 Git   
+- 🎮 Bonus: 🕹️ Unity · 📊 Pandas · 📐 NumPy · 📈 Matplotlib
+
 
 
 <!-- Separación -->
