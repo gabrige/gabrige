@@ -81,4 +81,4 @@ I also work with **Pandas**, **NumPy**, **Matplotlib**, and create UIs with **St
 
 <!-- Footer -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0072ff&reversal=false&text=Good%20Bye!%20👋&fontSize=35&fontColor=f&animation=twinkling&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0072ff&reversal=false&text=See%20You%20Soon!%20👋&fontSize=30&fontColor=f&animation=twinkling&section=footer"/>
